@@ -1,0 +1,2 @@
+C:\untitled\mylexer.g4 C:\untitled\myparser.g4  path for generated files C:\untitled\gen2  path for C:\antlr antlr-4.10.1-complete
+and these are the names of the files htmllexer and htmlparser
